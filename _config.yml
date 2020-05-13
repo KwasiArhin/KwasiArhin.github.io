@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kwasi Arhin"
-  avatar : "/assets/images/github.JFIF"
+  avatar : "/assets/images/github.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
